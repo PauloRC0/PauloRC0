@@ -67,7 +67,7 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
-  <a href="linkedin.com/in/pauloricardo0">
+  <a href="https://linkedin.com/in/pauloricardo0">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
